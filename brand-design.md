@@ -4,13 +4,6 @@ Give an overview of the event's brand and design elements.
 
 ## Name: < name of the event >
 
-## Properties
-#### Facebook
-#### Instagram
-#### Twitter
-#### Strava
-#### Other
-
 ## Logo
 < Either append logo or describe what it should be >
 
@@ -20,6 +13,13 @@ Give an overview of the event's brand and design elements.
 
 #### URL
 #### Hosting
+
+## Properties
+#### Facebook
+#### Instagram
+#### Twitter
+#### Strava
+#### Other
 
 ## SWAG
 #### Bag
