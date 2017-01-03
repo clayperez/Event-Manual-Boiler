@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Narrative](narrative.md)
 * [Partnerships](partnerships.md)
+* [Contracts](contracts.md)
 * [Venue](venue.md)
 * [Scheduling](scheduling.md)
 * [Brand Design](brand-design.md)
