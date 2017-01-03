@@ -4,19 +4,33 @@ Use this section to describe the sponsorship model for the event.
 
 ## Category Overview
 
-< itemize the categories that should be included as sellable sponsor opportunities >
+< itemize the categories that exist as sponsor opportunities >
 
-EG:
+[__] Title
 
-* Beer
-* Hydration
-* Eyeware
+[__] Presenting
 
-## Boilerplate Contract
+[__] Host Venue
+
+[__] Neutral Support
+
+[__] Sponsored Segments
+
+[__] Aid Station
+
+[__] Beer
+
+[__] Coffee
+
+[__] ...
+
+## Contracts
 
 This section is to remind you to create contracts for the following arrangements from existing boilerplates:
 
-* Partnerships (ie NorthStar)
-* Vendors
-* Sponsors
+[__] Partnerships (eg. NorthStar, Peter Stetina, etc...)
+
+[__] Vendors (eg. Acme Food Truck, etc.)
+
+[__] Sponsors (eg. Smith Optics, Carson City, etc.)
 
