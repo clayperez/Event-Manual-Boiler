@@ -6,5 +6,5 @@ This section is to remind you to create contracts for the following arrangements
 
 [__] Vendors (eg. Acme Food Truck, etc.)
 
-[__] Sponsors (eg. Smith Optics, Carson City, etc.)
+[__] Sponsors (eg. Host Venue, Smith Optics, Carson City, etc.)
 
