@@ -8,7 +8,7 @@
 * [Venue](venue.md)
 * [Scheduling](scheduling.md)
 * [Brand Design](brand-design.md)
-* [Campaign](campaign.md)
+* [Campaign Goals](campaign.md)
 * [Scoring](scoring.md)
 * [Registration](registration.md)
 * [Risk](risk.md)
