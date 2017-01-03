@@ -15,4 +15,3 @@ Describe the risk directives for the event.
     Describe who will handle COIs, who needs to provide them,
     and who needs to be named on them.
     
-    
