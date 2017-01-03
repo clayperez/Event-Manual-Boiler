@@ -1,7 +1,5 @@
 # Contracts
-
-    This section is to remind you to create contracts
-    for the following arrangements from existing boilerplates:
+This section is to remind you to create contracts for the following arrangements from existing boilerplates:
 
 [__] Partnerships (eg. NorthStar, Peter Stetina, etc...)
 

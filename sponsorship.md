@@ -1,6 +1,5 @@
 # Sponsorship
-
-    Use this section to describe the sponsorship model for the event.
+This section describes the sponsorship model for the event.
 
 ## Category Overview
 

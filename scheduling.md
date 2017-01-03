@@ -1,7 +1,5 @@
 # Scheduling
-
-    Give a brief overview of how the event should
-    be scheduled both high-level and on event-day.
+Describe the scheduling plan for the event from major milestones to day-of operations.
 
 ## Milestone Dates
 
