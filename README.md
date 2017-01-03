@@ -1,3 +1,7 @@
-# My Awesome Book
+# Bike Monkey's Event Boilerplate
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## < EVENT NAME >
+
+This document serves as a production roadmap for all Bike Monkey events. It begins as a checksheet and can evolve into a fully fledged production manual. Start here and adapt as needed.
+
+_Developer: Carlos Perez_
