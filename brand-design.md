@@ -1,15 +1,15 @@
 # Brand Design
 
-Give an overview of the event's brand and design elements.
+    Give an overview of the event's brand and design elements.
 
 ## Name: < name of the event >
 
 ## Logo
-< Either append logo or describe what it should be >
+    Either append logo or describe what it should be
 
 ## Website
 
-< Describe who manages the website content >
+    Describe who manages the website content
 
 #### URL
 #### Hosting

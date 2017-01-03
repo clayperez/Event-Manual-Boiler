@@ -1,10 +1,10 @@
 # Sponsorship
 
-Use this section to describe the sponsorship model for the event.
+    Use this section to describe the sponsorship model for the event.
 
 ## Category Overview
 
-< itemize the categories that exist as sponsor opportunities >
+    Itemize the categories that exist as sponsor opportunities
 
 [__] Title
 
@@ -24,3 +24,4 @@ Use this section to describe the sponsorship model for the event.
 
 [__] ...
 
+    Provide a brief description of the sponsorship categories.

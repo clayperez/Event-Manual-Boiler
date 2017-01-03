@@ -18,7 +18,7 @@ Use this section to describe our venue requirements and the requirements imposed
 
 [__] Other
 
-< Briefly elaborate on our requirements for this event >
+    Briefly elaborate on our requirements for this event
 
 ---
 
@@ -44,7 +44,8 @@ Use this section to describe our venue requirements and the requirements imposed
 
 [__] Other
 
-< Briefly elaborate on the limitations and requirements of this location as they relate to the items above >
+    Briefly elaborate on the limitations and requirements
+    of this location as they relate to the items above
 
 #### < Friant, California >
 
@@ -66,7 +67,8 @@ Use this section to describe our venue requirements and the requirements imposed
 
 [__] Other
 
-< Briefly elaborate on the limitations and requirements of this location as they relate to the items above >
+    Briefly elaborate on the limitations and requirements
+    of this location as they relate to the items above
 
 #### < Fresno County, California >
 
@@ -88,7 +90,8 @@ Use this section to describe our venue requirements and the requirements imposed
 
 [__] Other
 
-< Briefly elaborate on the limitations and requirements of this location as they relate to the items above >
+    Briefly elaborate on the limitations and requirements
+    of this location as they relate to the items above
 
 #### < Madera County, California >
 
@@ -110,4 +113,5 @@ Use this section to describe our venue requirements and the requirements imposed
 
 [__] Other
 
-< Briefly elaborate on the limitations and requirements of this location as they relate to the items above >
+    Briefly elaborate on the limitations and requirements
+    of this location as they relate to the items above

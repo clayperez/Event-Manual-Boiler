@@ -4,17 +4,19 @@ Provide an overview of how the event will be promoted, what the expectation is f
 
 ## Newsletters
 
-< Describe the newsletter plan >
+    Describe the newsletter plan
 
 ## Luminaries
 
-< Describe the VIP plan >
+    Describe the VIP plan
 
 ## Partnerships
 
-< Describe how partners will participate in promoting the event >
+    Describe how partners will participate in promoting the event
 
 ## Owned Properties
 
-< Describe a plan for leveraging owned properties such as Facebook, Instagram, Twitter, etc. to build audience and engagement >
+    Describe a plan for leveraging owned properties such as 
+    Facebook, Instagram, Twitter, etc. to build audience and
+    engagement
 
