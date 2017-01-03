@@ -1,4 +1,4 @@
-# Scheduling
+# Schedule
 Describe the scheduling plan for the event from major milestones to day-of operations.
 
 ## Milestone Dates

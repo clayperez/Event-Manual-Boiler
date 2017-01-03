@@ -6,7 +6,7 @@
 * [Sponsorship](sponsorship.md)
 * [Contracts](contracts.md)
 * [Venue](venue.md)
-* [Scheduling](scheduling.md)
+* [Schedule](scheduling.md)
 * [Brand Design](brand-design.md)
 * [Campaign Goals](campaign.md)
 * [Scoring](scoring.md)
