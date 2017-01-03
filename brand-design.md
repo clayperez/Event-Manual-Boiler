@@ -1,6 +1,5 @@
 # Brand Design
-
-    Give an overview of the event's brand and design elements.
+Describe the event's brand and design elements, properties and any guidelines for their use.
 
 ## Name: < name of the event >
 
