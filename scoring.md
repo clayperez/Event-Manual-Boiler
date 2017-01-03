@@ -1,5 +1,5 @@
 # Scoring
-    Describe the scoring and awards format for the event.
+This section describes the scoring execution plan for the event.
     
 ### Categorization
     Pro Men/Women, Singlespeed, Sport 35+, ...
