@@ -1,6 +1,12 @@
 {
     "plugins": [
-        "todo",
-        "block-align"
-    ]
+        "todo"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    }
 }
