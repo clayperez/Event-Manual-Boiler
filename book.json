@@ -1,7 +1,5 @@
 {
     "plugins": [
-        "todo",
-        "downloadpdf",
-        "download-pdf"
+        "todo"
     ]
 }
