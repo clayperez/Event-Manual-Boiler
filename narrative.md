@@ -4,37 +4,55 @@ Use this section to describe the overview of the event. Here is where we capture
 
 ## Internal Narrative
 
-    In a paragraph, give an overview of the entire event
+```
+In a paragraph, give an overview of the entire event
+```
 
 ## One-Liners / Elevator Pitch
 
-    Describe the event briefly to the public
+```
+Describe the event briefly to the public
+```
 
 ## Features
+
 ### Aid Stations
-[__] Premium
 
-[__] Basic
+* [ ] Premium
+* [ ] Basic
+* [ ] Both
 
-[__] Both
-
-    Describe the aid stations in a brief paragraph
+```
+Describe the aid stations in a brief paragraph
+```
 
 ### Traffic Control
+
 ### EMS
+
 ### Awards
+
 ### Expo
+
 ### Food & Beverage
+
 ### Commemorative Swag
-[__] T-Shirt
 
-[__] Water Bottle
+\[\_\_\] T-Shirt
 
-[__] Swag Bag
+\[\_\_\] Water Bottle
 
-[__] Other
+\[\_\_\] Swag Bag
 
-    Describe the commemorative swag items very briefly
+\[\_\_\] Other
+
+```
+Describe the commemorative swag items very briefly
+```
 
 ### SAG Support
+
 ### HAM / Radio Communication Support
+
+
+
