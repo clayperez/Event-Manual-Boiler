@@ -1,4 +1,4 @@
-![](/assets/BM2016 circle 500.png)
+{% center %} ![](/assets/BM2016 circle 500.png) {% endcenter %}
 
 # Bike Monkey's Event Boilerplate
 
