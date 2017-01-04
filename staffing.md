@@ -33,8 +33,16 @@ This section describes the staffing overview for the event.
     Manages the scoring plan and execution phases.
 #### Registration
     Erica Gorden
-    
+#### Customer Service
+    Erica Gorden
 #### Risk
+    Carlos Perez
 #### Permits
+    Jennifer Picard
+    Conducts all necessary permit application steps for all known
+    permits required per the Permit section.
 #### Volunteer Management
+    Develop volunteer plan, establish volunteer resource leads, recruit to fill positions, communicate with, instruct and direct all volunteers.
 #### Charity
+    Liaise with nonprofit staff to ensure a positive and effective charitable integration.
+
