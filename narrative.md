@@ -18,9 +18,9 @@ Describe the event briefly to the public
 
 ### Aid Stations
 
-* [ ] Premium
-* [ ] Basic
-* [ ] Both
+- [ ] Premium
+- [ ] Basic
+- [ ] Both
 
 ```
 Describe the aid stations in a brief paragraph
@@ -38,13 +38,13 @@ Describe the aid stations in a brief paragraph
 
 ### Commemorative Swag
 
-\[\_\_\] T-Shirt
+- [ ] T-Shirt
 
-\[\_\_\] Water Bottle
+- [ ] Water Bottle
 
-\[\_\_\] Swag Bag
+- [ ] Swag Bag
 
-\[\_\_\] Other
+- [ ] Other
 
 ```
 Describe the commemorative swag items very briefly

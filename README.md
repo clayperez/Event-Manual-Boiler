@@ -1,5 +1,3 @@
-![](/assets/BM2016 circle 500.png)
-
 # Bike Monkey's Event Boilerplate
 
 ## < EVENT NAME >
