@@ -15,7 +15,7 @@
 * [Risk](risk.md)
 * [Permits](permits.md)
 * [Staffing](staffing.md)
-* [Budget]()
+* [Budget](budget.md)
 * [Volunteers](volunteers.md)
 * [Charity](charity.md)
 
