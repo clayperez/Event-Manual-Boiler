@@ -48,3 +48,4 @@ Who we want to be talking about the event.
 |-------------------|------|-------|
 | Brent Cadagan     | Laser Impressions | Custom laser engraving |
 | Grant Taggart     | Allied Luthrie | rare hardwood material |
+| Nick Nesbitt   | Bulldog Machine Works | raw metal |
