@@ -1,10 +1,8 @@
 #Budget
 
-Below is a very rough outline of obvious items worth considering for budget planning.
+Below is a very rough outline of obvious items worth considering for budget planning. Please complete this table with information from the [Considerations](/considerations.md) section earlier in the document.
 
-* Traffic Control
-* EMT
-* 
+---
 
 | ITEM                          | $USD      |
 |------------------------------|---------|
