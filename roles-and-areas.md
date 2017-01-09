@@ -7,6 +7,8 @@ This section should clarify all of the different busy parts of the event's plann
 ## Resources Summary
 
 ### BIKE MONKEY STAFF DIRECTORY
+Bike Monkey's core production staff
+
 | N A M E      | R O L E |
 |-------------------|------|
 | Carlos Perez      | Chief Officer |
@@ -20,8 +22,8 @@ This section should clarify all of the different busy parts of the event's plann
 | Phil Fifer        | Course and SAG |
 
 ### VOLUNTEER RESOURCES DIRECTORY
-
 People who have access to volunteers.
+
 | N A M E      | R O L E |
 |-------------------|------|
 | Jake Bayless   | REMBA, Volunteers |
