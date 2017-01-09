@@ -1,6 +1,10 @@
 # CONSIDERATIONS
 This section describes the important considerations that need to be made in order to elaborate on the [narrative](/narrative.md) given earlier.
 
+**BUDGET**
+
+Use these considerations to help complete a budget plan in the [Budget](/budget.md) section.
+
 ---
 ## PARTNERSHIPS
 
