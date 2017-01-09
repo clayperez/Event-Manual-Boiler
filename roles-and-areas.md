@@ -10,7 +10,6 @@ This section should clarify all of the different busy parts of the event's plann
 | N A M E      | R O L E |
 |-------------------|------|
 | Carlos Perez      | Bike Monkey, Chief Officer. |
-| Levi Leipheimer   | Bike Monkey, Influencer. |
 | Andy Buckley      | NorthStar, Director of Resort Services. |
 | Jennifer Picard   | Bike Monkey, Finance. |
 | Joy Hermsen       | Bike Monkey, Human Resources. |
@@ -29,10 +28,15 @@ This section should clarify all of the different busy parts of the event's plann
 | Nick Nesbitt   | REMBA, Volunteers. |
 | Sebastian Brewer   | AMBG, Volunteers. |
 
-### INFLUENCERS
-| Levi Leipheimer   | Bike Monkey, Influencer. |
+### KEY INFLUENCERS
+| N A M E      | D E S C R I P T I O N |
+|-------------------|------|------|
+| Levi Leipheimer   | duh |
+| Yuri Hauswald   | Gu Energy, Brand Manager |
+| Peter Stetina   | Trek-Segafredo, Pro Racer |
 
-### SERVICE RESOURCES
+
+### COMPANIES
 
 | N A M E      | C O M P A N Y | F U N C T I O N |
 |-------------------|------|-------|
