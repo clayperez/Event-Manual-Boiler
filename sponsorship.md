@@ -24,3 +24,4 @@ This section describes the sponsorship model for the event.
 [__] ...
 
     Provide a brief description of the sponsorship categories.
+    

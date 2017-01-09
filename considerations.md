@@ -10,9 +10,9 @@ This section describes the important considerations that need to be made in orde
 - [ ] What is expected of the charity?
 - [ ] What does the charity expect?
 
-```
-Narrate the charitable relationship
-```
+
+    Narrate the charitable relationship
+
 ######See [Charity](/charity.md) for more detail.
 
 ### Partnerships
@@ -20,24 +20,23 @@ Narrate the charitable relationship
 - [ ] What do the partners bring to the table?
 - [ ] Will there be a financial obligation between partners?
 
-```
-Narrate the partnerships, eg. who's involved and what the
-relationship is.
-```
+
+    Narrate the partnerships, eg. who's involved and what the
+    relationship is.
+
 ######See [Partnerships](/partnerships.md) for more detail.
 
 ### Sponsorships
-```
-Narrate the integration of sponsors, the opportunities that
-exist and what conflicts should be avoided.
-```
+
+    Narrate the integration of sponsors, the opportunities that
+    exist and what conflicts should be avoided.
+
 ######See [Sponsorship](/sponsorship.md) for more detail.
 
 ### Finances
-```
-Describe financial capital resources and budget considerations.
-Make sure to describe who the fiscal manager will be.
-```
+
+    Describe financial capital resources and budget considerations.
+    Make sure to describe who the fiscal manager will be.
 
 ---
 ## Technical Elements
@@ -51,10 +50,10 @@ Make sure to describe who the fiscal manager will be.
 - [ ] State
 - [ ] National
 
-```
-Narrate the spaces being utilezed, the expected impacts 
-and the decisions on how to approach various agencies.
-```
+
+    Narrate the spaces being utilezed, the expected impacts 
+    and the decisions on how to approach various agencies.
+
 
 ### Traffic Control
 
@@ -62,9 +61,9 @@ and the decisions on how to approach various agencies.
 - [ ] CHP
 - [ ] Other
 
-```
-Describe any traffic control needs for the event.
-```
+
+    Describe any traffic control needs for the event.
+
 
 ### Venue / Festival / Expo
 - [ ] Is there an expo?
@@ -73,9 +72,9 @@ Describe any traffic control needs for the event.
 - [ ] Is there a participant meal?
 - [ ] Will alcohol be served?
 
-```
-Provide a narrative of the venue and its components.
-```
+
+    Provide a narrative of the venue and its components.
+
 ######See [Venue](/venue.md) for more detail.
 
 ### Aid Stations
@@ -84,33 +83,33 @@ Provide a narrative of the venue and its components.
 - [ ] Basic
 - [ ] Both
 
-```
-Describe the aid stations in a brief paragraph
-```
+
+    Describe the aid stations in a brief paragraph
+
 
 ### EMS
 - [ ] Positional EMTs
 - [ ] Standby ALS
 - [ ] 
 
-```
-Describe EMS needs
-```
+
+    Describe EMS needs
+
 
 ### Categorization
-```
-Describe the categorization of competitors and how categories
-tie into awards.
-```
+
+    Describe the categorization of competitors and how categories
+    tie into awards.
+
 
 ### Awards
 - [ ] Medals
 - [ ] Prizes
 - [ ] Cash
 
-```
-Describe the awards package.
-```
+
+    Describe the awards package.
+
 
 ### Commemorative Swag
 
@@ -119,9 +118,9 @@ Describe the awards package.
 - [ ] Swag Bag
 - [ ] Other
 
-```
-Describe the commemorative swag items very briefly
-```
+
+    Describe the commemorative swag items very briefly
+
 
 ### Additional Support Measures
 - [ ] Will SAG be utilized?
@@ -132,8 +131,8 @@ Describe the commemorative swag items very briefly
 - [ ] Will the use of ATVs be used?
 - [ ] Will the use of boats be used?
 
-```
-Narrate any _above average_ support measures that will be taken
-to conduct the event.
-```
+
+    Narrate any _above average_ support measures that will be taken
+    to conduct the event.
+
 
