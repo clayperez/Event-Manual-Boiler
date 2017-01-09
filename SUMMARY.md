@@ -22,8 +22,9 @@
 * [Charity](charity.md)
 * Guides
     * [Permits](permits.md)
-    * [Venue](venue.md)
+    * [Festival](venue.md)
     * [Brand Design](brand-design.md)
     * [Volunteers](volunteers.md)
     * [Budget](budget.md)
     * [Schedule](scheduling.md)
+

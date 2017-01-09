@@ -1,4 +1,4 @@
-# Venue
+# FESTIVAL GUIDE
 
 Use this section to describe our venue requirements and the requirements imposed upon us by each venue participating in the event. "Venue" stands to include not only the start/finish property but also any permitted use as part of the event such as the race course encroachment, municipalities and government agencies.
 
