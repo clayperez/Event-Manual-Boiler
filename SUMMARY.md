@@ -23,6 +23,8 @@
 * Guides
     * [Permits](permits.md)
     * [Festival](venue.md)
+        * [Our Needs](our-needs.md)
+        * [Venue Impositions](venue-impositions.md)
     * [Brand Design](brand-design.md)
     * [Volunteers](volunteers.md)
     * [Budget](budget.md)
