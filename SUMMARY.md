@@ -22,6 +22,11 @@
 * [Charity](charity.md)
 * [Guides](guides.md)
     * [Permits](permits.md)
+        * Host Venue
+        * City of Booneville, CA
+        * County of Mendocino
+        * CalTrans
+        * Alcohol
     * [Festival](venue.md)
         * [Our Needs](our-needs.md)
         * [Venue Impositions](venue-impositions.md)
