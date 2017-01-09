@@ -21,9 +21,10 @@
 * [Brand Design](brand-design.md)
 * [Campaign Goals](campaign.md)
 * [Registration](registration.md)
-* [Permits](permits.md)
 * [Staffing](staffing.md)
 * [Budget](budget.md)
 * [Volunteers](volunteers.md)
 * [Charity](charity.md)
+* [Permits](permits.md)
+    * Guides
 
