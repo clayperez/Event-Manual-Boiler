@@ -34,15 +34,23 @@ Narrate the charitable relationship
 - [ ] Will there be a financial obligation between partners?
 
 ```
-Narrate the partnerships, eg. who's involved and what the relationship is.
+Narrate the partnerships, eg. who's involved and what the
+relationship is.
 ```
 ######See [Partnerships](/partnerships.md) for more detail.
 
 ### Sponsorships
 ```
-Narrate the integration of sponsors, the opportunities that exist and what conflicts should be avoided.
+Narrate the integration of sponsors, the opportunities that
+exist and what conflicts should be avoided.
 ```
 ######See [Sponsorship](/sponsorship.md) for more detail.
+
+### Finances
+```
+Describe financial capital resources and budget considerations.
+Make sure to describe who the fiscal manager will be.
+```
 
 ### Aid Stations
 
@@ -84,7 +92,8 @@ Describe the awards package.
 
 ### Categorization
 ```
-Describe the categorization of competitors and how categories tie into awards.
+Describe the categorization of competitors and how categories
+tie into awards.
 ```
 
 ### Venue / Festival / Expo
