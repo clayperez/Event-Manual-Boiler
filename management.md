@@ -2,6 +2,8 @@
 
 This is a summary of the managerial staff and the roles they serve to the project.
 
+---
+
 ####Director: Carlos Perez
     High level planning team to create an understanding of what the 
     event is and what it should cost. This includes the development 
