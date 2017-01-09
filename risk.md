@@ -1,17 +1,12 @@
-# Risk
+##RISK
 
-Describe the risk directives for the event.
+####Insurance
+    Assess insurance risk/impact to existing policies or cost of new 
+    policy to cover the event's production.
 
-### Insurance
+####Waiver
+    Adapt BM Waiver to suit.
 
-    Who will insure the event? Describe here.
-    
-### [__] Waiver
+####COIs
+    Determine COI needs for all participating vendors.
 
-    Adapt boilerplate waiver and reference here.
-
-### COIs
-
-    Describe who will handle COIs, who needs to provide them,
-    and who needs to be named on them.
-    

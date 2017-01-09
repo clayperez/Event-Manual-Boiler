@@ -6,12 +6,12 @@
     * [Considerations](considerations.md)
 * [Roles and Areas](roles-and-areas.md)
     * [Management](management.md)
-    * Course
-    * Aid Stations
-    * Marketing
-    * Risk
-    * Festival
-    * Volunteers
+    * [Course](course.md)
+    * [Aid Stations](aid-stations.md)
+    * [Marketing](marketing.md)
+    * [Risk](risk.md)
+    * [Festival](festival.md)
+    * [Volunteers](volunteers.md)
 * [Partnerships](partnerships.md)
 * [Sponsorship](sponsorship.md)
 * [Contracts](contracts.md)
@@ -22,7 +22,6 @@
 * [Scoring](scoring.md)
 * [Registration](registration.md)
 * [Customer Service](customer-service.md)
-* [Risk](risk.md)
 * [Permits](permits.md)
 * [Staffing](staffing.md)
 * [Budget](budget.md)
