@@ -10,7 +10,6 @@ This section should clarify all of the different busy parts of the event's plann
 | N A M E      | R O L E |
 |-------------------|------|
 | Carlos Perez      | Bike Monkey, Chief Officer. |
-| Andy Buckley      | NorthStar, Director of Resort Services. |
 | Jennifer Picard   | Bike Monkey, Finance. |
 | Joy Hermsen       | Bike Monkey, Human Resources. |
 | Erica Gorden      | Bike Monkey, Customer Service. |
@@ -24,6 +23,7 @@ This section should clarify all of the different busy parts of the event's plann
 
 | N A M E      | R O L E |
 |-------------------|------|
+| Jeff Malnick   | Booneville Native racer. |
 | Jake Bayless   | REMBA, Volunteers. |
 | Nick Nesbitt   | REMBA, Volunteers. |
 | Sebastian Brewer   | AMBG, Volunteers. |
