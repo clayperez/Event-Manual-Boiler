@@ -18,7 +18,6 @@
 * [Contracts](contracts.md)
 * [Campaign Goals](campaign.md)
 * [Registration](registration.md)
-* [Staffing](staffing.md)
 * [Charity](charity.md)
 * [Guides](guides.md)
     * [Permits](permits.md)

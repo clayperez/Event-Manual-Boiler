@@ -7,7 +7,17 @@ This is a summary of the managerial staff and the roles they serve to the projec
     event is and what it should cost. This includes the development 
     and management of a production budget.
 
-####Staff Planner: Joy Hermsen
+####Marketing Specialist: (Director)
+    Develops and manages marketing campaign assets, conducts audience
+    development activities using tools like e-mail and social media.
+    Is resourceful and influential: can develop additional marketing
+    support through third-party reach (RT, mentions, etc.).
+
+####Design: (Director)
+
+####Contracts: (Director)
+
+####Staffing: Joy Hermsen
     Work with Planning to coordinate the staff resources needed to 
     produce the event.
 
@@ -28,12 +38,6 @@ This is a summary of the managerial staff and the roles they serve to the projec
 ####Partner Specialist: Kris Lunning
     Negotiates and manages sponsor-partnerships.
 
-####Marketing Specialist: (Director)
-    Develops and manages marketing campaign assets, conducts audience
-    development activities using tools like e-mail and social media.
-    Is resourceful and influential: can develop additional marketing
-    support through third-party reach (RT, mentions, etc.).
-
 ####Administrative: Jennifer Picard | Erica Gorden
     Regular administrative in support of the project including permit
     paperwork completion, office management, buying, registration management,
@@ -44,3 +48,7 @@ This is a summary of the managerial staff and the roles they serve to the projec
     administrative management. Answer customer questions by e-mail, 
     phone, real-time chat, Facebook, etc.
 
+####IT: Angel Garbarino
+    Manages website content, develops and deploys registration forms,
+    plans and manages race scoring activities.
+    
