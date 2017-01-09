@@ -47,4 +47,4 @@ Who we want to be talking about the event.
 | N A M E      | C O M P A N Y | F U N C T I O N |
 |-------------------|------|-------|
 | Brent Cadagan     | Laser Impressions | Custom laser engraving |
-| 
+| Grant Taggart     | Allied Luthrie | rare hardwood material |
