@@ -25,8 +25,8 @@
     * [Festival](venue.md)
         * [Our Needs](our-needs.md)
         * [Venue Impositions](venue-impositions.md)
-        * Maps
-        * Build Schedule
+        * [Maps](maps.md)
+        * [Build Schedule](build-schedule.md)
     * [Brand Design](brand-design.md)
     * [Volunteers](volunteers.md)
     * [Budget](budget.md)
