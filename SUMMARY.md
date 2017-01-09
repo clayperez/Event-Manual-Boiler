@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Narrative](narrative.md)
+* [Roles and Areas](roles-and-areas.md)
 * [Partnerships](partnerships.md)
 * [Sponsorship](sponsorship.md)
 * [Contracts](contracts.md)
