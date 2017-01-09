@@ -1,16 +1,16 @@
 # ROLES AND AREA DEFINITIONS
 
 ## Management
-####Planning
+####Planning: Carlos Perez
 High level planning team to create an understanding of what the event is and what it should cost. This includes the development and management of a production budget.
-####Project Management
-Overall project management of the entire event. Pushing the ball forward by, facilitating project milestones and conducting meetings when **necessary**.
-####Administrative
-Day-to-day administrative duties at BMHQ to support the project.
-####Customer Service
-Answer rider questions by e-mail, phone, real-time chat, Facebook, etc.
-####Staff Coordination
+####Staff Coordination: Joy Hermsen
 Work with Planning to coordinate the staff resources needed to produce the event.
+####Project Management: Clémence Heymelot
+Overall project management of the entire event. Pushing the ball forward by, facilitating project milestones and conducting meetings when **necessary**.
+####Administrative: Jennifer Picard | Erica Gorden
+Day-to-day administrative duties at BMHQ to support the project.
+####Customer Service: Erica Gorden | Clémence Heymelot
+Answer rider questions by e-mail, phone, real-time chat, Facebook, etc.
 
 ---
 
