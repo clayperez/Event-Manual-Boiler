@@ -16,15 +16,14 @@
 * [Partnerships](partnerships.md)
 * [Sponsorship](sponsorship.md)
 * [Contracts](contracts.md)
-* [Venue](venue.md)
-* [Schedule](scheduling.md)
-* [Brand Design](brand-design.md)
 * [Campaign Goals](campaign.md)
 * [Registration](registration.md)
 * [Staffing](staffing.md)
-* [Budget](budget.md)
-* [Volunteers](volunteers.md)
 * [Charity](charity.md)
-* [Permits](permits.md)
-    * Guides
-
+* Guides
+    * [Venue](venue.md)
+    * [Brand Design](brand-design.md)
+    * [Permits](permits.md)
+    * [Volunteers](volunteers.md)
+    * [Budget](budget.md)
+    * [Schedule](scheduling.md)
