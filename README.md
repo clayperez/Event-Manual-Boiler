@@ -1,4 +1,4 @@
-# Bike Monkey's Event Boilerplate
+# Bike Monkey's Event Manual Boilerplate
 
 ## < EVENT NAME >
 
