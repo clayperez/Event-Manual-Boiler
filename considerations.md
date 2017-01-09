@@ -39,6 +39,11 @@ This section describes the important considerations that need to be made in orde
     Make sure to describe who the fiscal manager will be.
 
 ---
+## Marketing
+
+    Narrative of the marketing concepts, resources and leads.
+
+---
 ## Technical Elements
 
 ### Permitting
