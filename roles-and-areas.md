@@ -1,4 +1,5 @@
 # ROLES AND AREA DEFINITIONS
+This is an overview of the various areas of production that need to be fulfilled, a summary of the role and an assignment where known.
 
 ## Management
 ####Planning: Carlos Perez
