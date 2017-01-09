@@ -21,9 +21,9 @@
 * [Staffing](staffing.md)
 * [Charity](charity.md)
 * Guides
+    * [Permits](permits.md)
     * [Venue](venue.md)
     * [Brand Design](brand-design.md)
-    * [Permits](permits.md)
     * [Volunteers](volunteers.md)
     * [Budget](budget.md)
     * [Schedule](scheduling.md)
