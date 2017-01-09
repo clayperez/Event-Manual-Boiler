@@ -1,7 +1,8 @@
 # ROLES AND AREA MANAGEMENT CONSIDERATIONS
 This is an overview of the various areas of production that need to be fulfilled, a summary of the role and an assignment where applicable.
 
-## Management
+---
+## MANAGEMENT
 
 This is a summary of the managerial staff and the roles they serve to the project.
 
@@ -48,8 +49,7 @@ This is a summary of the managerial staff and the roles they serve to the projec
     phone, real-time chat, Facebook, etc.
 
 ---
-
-## Course
+## COURSE
 
 ####Planning (Director)
     Design the course, assess risk, traffic control, resource needs
@@ -73,7 +73,6 @@ This is a summary of the managerial staff and the roles they serve to the projec
     Develop a course manual section for reference by all areas.
 
 ---
-
 ##AID STATIONS
 
 ####Planning (Director)
