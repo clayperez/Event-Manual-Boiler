@@ -28,22 +28,49 @@ Describe the aid stations in a brief paragraph
 
 ### Traffic Control
 
+- [ ] Police
+- [ ] CHP
+- [ ] Other
+
+```
+Describe any traffic control needs for the event.
+```
+
 ### EMS
+- [ ] Positional EMTs
+- [ ] Standby ALS
+- [ ] 
+
+```
+Describe EMS needs
+```
 
 ### Awards
+- [ ] Medals
+- [ ] Prizes
+- [ ] Cash
+
+```
+Describe the awards package.
+```
+
+### Categorization
+```
+Describe the categorization of competitors and how categories tie into awards.
+```
 
 ### Expo
+- [ ] Vendors
+- [ ] Tenting
+- [ ] 
 
 ### Food & Beverage
 
 ### Commemorative Swag
 
 - [ ] T-Shirt
-
 - [ ] Water Bottle
-
 - [ ] Swag Bag
-
 - [ ] Other
 
 ```
