@@ -5,6 +5,13 @@
     * [Narrative](narrative.md)
     * [Considerations](considerations.md)
 * [Roles and Areas](roles-and-areas.md)
+    * [Management](management.md)
+    * Course
+    * Aid Stations
+    * Marketing
+    * Risk
+    * Festival
+    * Volunteers
 * [Partnerships](partnerships.md)
 * [Sponsorship](sponsorship.md)
 * [Contracts](contracts.md)
