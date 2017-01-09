@@ -2,9 +2,10 @@
 
 # Event Manual Boilerplate
 
-## < EVENT NAME >
+## Fish Rock
+#### March 11th, 2017
 
-This document serves as a production roadmap for all Bike Monkey events. It serves as a checksheet and can evolve into a fully fledged production manual. Start here and adapt as needed.
+This is the production roadmap for the Fish Rock Road Rally.
 
 #####_Written by:_ Carlos Perez
 ######Bike Monkey Incorporated
