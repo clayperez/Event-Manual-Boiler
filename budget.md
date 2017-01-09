@@ -3,11 +3,11 @@
 Below is a very rough outline of obvious items worth considering for budget planning. Please complete this table with information from the [Considerations](/considerations.md) section earlier in the document.
 
 ---
+_Can be created with Google Spreadsheet using [Tables Generator](http://www.tablesgenerator.com/markdown_tables)_
 
 | ITEM                          | $USD      |
 |------------------------------|---------|
-| TRAFFIC CON                  | $0      |
-| EMS                          | $0      |
+| TRAFFIC CONTROL              | $0      |
 | EMT                          | $1,500  |
 | AID STATIONS                 | $1,000  |
 | VENUE                        | $2,000  |
