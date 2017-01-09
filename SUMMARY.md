@@ -20,7 +20,7 @@
 * [Registration](registration.md)
 * [Staffing](staffing.md)
 * [Charity](charity.md)
-* Guides
+* [Guides](guides.md)
     * [Permits](permits.md)
     * [Festival](venue.md)
         * [Our Needs](our-needs.md)
