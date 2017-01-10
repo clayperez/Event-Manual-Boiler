@@ -5,25 +5,19 @@ Below is a very rough outline of obvious items worth considering for budget plan
 ---
 _Can be created with Google Spreadsheet using [Tables Generator](http://www.tablesgenerator.com/markdown_tables)_
 
-| ITEM                          | $USD      |
+| ITEM                         | $USD    |
 |------------------------------|---------|
-| TRAFFIC CONTROL              | $0      |
-| EMT                          | $1,500  |
-| AID STATIONS                 | $1,000  |
-| VENUE                        | $2,000  |
-| ENTERTAINMENT                | $2,000  |
-| COURSE                       | $800    |
-| INSURANCE                    | $2,000  |
-| STAFF COST (no markup)       | $20,000 |
-| ADVERTISING                  | $2,000  |
-| VOLUNTEERS                   | $1,500  |
-| SHIRTS                       | $2,000  |
-| REG MATERIAL                 | $600    |
-| SWAG BAGS                    | $800    |
-| MERCHANDISE                  | $0      |
-| VALUE ADDITIONS              |         |
-| SRAM NRS                     | $1,000  |
-| AID STATION UPGRADES         | $2,500  |
-| CHP @ KEY LOCATIONS          | $5,000  |
-| PODIUM PRIZES                | $1,000  |
-
+| INCOME @100x$85              |  $8,500 |
+| FOOD  @100x10                |  ($1,000) |
+| INCOME @150x$85              | $12,750 |
+| FOOD  @150x10                |  ($1,500) |
+| INCOME @200x$85              | $17,000 |
+| FOOD  @200x10                |  ($2,000) |
+| INCOME @300x$85              | $25,500 |
+| FOOD  @300x10                |  ($3,000) |
+|------------------------------|---------|
+| STAFF                        |  $5,000 |
+| INCIDENTALS                  |  $500 |
+| PERMITS                      |    $800 |
+| FOOD  @150x10                |  $1,500 |
+-NEED MORE ITEMS TO FINALIZE-

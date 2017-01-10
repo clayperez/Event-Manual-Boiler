@@ -12,9 +12,17 @@ Use these considerations to help complete a budget plan in the [Budget](/budget.
 - [ ] What do the partners bring to the table?
 - [ ] Will there be a financial obligation between partners?
 
+####Existing Partners
+Leverage all existing partnerships for production cash and swag. Bike Monkey events can be tagged on as additional opportunities included in LGF or exclusive opportunities with a cash component. eg. Lagunitas can tag on with beer, or have exclusive rights with cash to keep Anderson Valley out.
 
-    Narrate the partnerships, eg. who's involved and what the
-    relationship is.
+####Anderson Valley Brewery
+We have a formal relationship with Lagunitas via Levi's GranFondo sponsorship. However Booneville hosts Anderson Valley Brewery and they should be approached with these considerations as a potential sponsor of the event.
+
+####Jeff Malnick
+Jeff Malnick, a friend of Kris and Angel is a Booneville native who has laid some groundwork for potential sponsors. Carlos to speak with him [DAPULSE].
+
+####Booneville
+Booneville should be approached for potential partnership.
 
 **See [Partnerships](/partnerships.md) for more detail.**
 
