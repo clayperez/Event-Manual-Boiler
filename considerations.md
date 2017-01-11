@@ -33,8 +33,8 @@ Booneville should be approached for potential partnership.
 - [ ] What is expected of the charity?
 - [ ] What does the charity expect?
 
-
-    Narrate the charitable relationship
+We don't currently have a charitable component to the event. However we should be prepared to make a donation to the junior high school in exchange for venue.
+We will use REMBA to start the process. As we develop the event, if another local charity comes to fruition we can consider working with them for local value and still leverage REMBA for the technical aspects of producing the ride. We should turn to REMBA as their "landlord" in exchange for this kind of technical _fiscal sponsorship_ of all our events so permits and ABC licenses are straightforward. The actualy financially benefitting charity could be different, and REMBA can hang their hat on that along with us.
 
 **See [Charity](/charity.md) for more detail.**
 
