@@ -2,12 +2,12 @@
 
 # Event Manual Boilerplate
 
-## Fish Rock
-#### March 11th, 2017
+## < Event Name >
+#### < event date >
 
-This is the production roadmap for the Fish Rock Road Rally.
+< description >
 
 
-#####_Written by:_ Carlos Perez
+#####_Written by:_ < author >
 ######Bike Monkey Incorporated
 
