@@ -11,3 +11,5 @@ The Fish Rock Road Rally event is an adventure road and gravel race in Boonevill
 
 A challenging and competitive adventure ride suitable for cross bikes in a remote part of Northern California on beautiful, low-traffic roads.
 
+## Goals
+
