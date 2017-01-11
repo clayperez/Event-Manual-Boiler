@@ -12,14 +12,15 @@ Use these considerations to help complete a budget plan in the [Budget](/budget.
 ####Existing Partners
 Leverage all existing partnerships for production cash and swag. Bike Monkey events can be tagged on as additional opportunities included in LGF or exclusive opportunities with a cash component. eg. Lagunitas can tag on with beer, or have exclusive rights with cash to keep Anderson Valley out.
 
-####Anderson Valley Brewery
+####Potential / Leads
+#####Anderson Valley Brewery
 We have a formal relationship with Lagunitas via Levi's GranFondo sponsorship. However Booneville hosts Anderson Valley Brewery and they should be approached with these considerations as a potential sponsor of the event.
 
-####Jeff Malnick
+#####Jeff Malnick
 Jeff Malnick, a friend of Kris and Angel is a Booneville native who has laid some groundwork for potential sponsors. Carlos to speak with him [DAPULSE].
 
-####Booneville
-Booneville should be approached for potential partnership.
+#####Anderson Valley / Mendocino County
+Approach Anderson Valley communities, chamber of commerce, tourism bureau and county district offices to describe the opportunity we are bringing in a typically low-traffic season. See what interest they have in the event, and how they might want to leverage this audience. Create a partnership proposal where they provide resources and/or cash in exchange for us activating our audience on their behalf. eg: VIP package that includes entry to ancillary events or businesses in the region to our racers in exchange for a cash sponsorship.
 
 **See [Partnerships](/partnerships.md) for more detail.**
 
