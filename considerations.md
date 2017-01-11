@@ -41,8 +41,7 @@ We will use REMBA to start the process. As we develop the event, if another loca
 
 ### Finances
 
-    Describe financial capital resources and budget considerations.
-    Make sure to describe who the fiscal manager will be.
+There are no extenuating financial obligations to other organizations at this point. The event is a Bike Monkey event and we will manage the finances in-house, independently.
 
 **See [Budget](/budget.md) for more detail.**
 
