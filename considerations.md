@@ -54,13 +54,11 @@ There are no extenuating financial obligations to other organizations at this po
 ## TECHNICAL
 
 ### Permitting
-- [ ] Public Roads
-- [ ] Public Trails
-- [ ] Private Venue
-- [ ] City
-- [ ] County
-- [ ] State
-- [ ] National
+- [y] Public Roads
+- [y] Private Venue
+- [y] City
+- [y] County
+- [y] State
 
 
     Narrate the spaces being utilezed, the expected impacts 
@@ -78,14 +76,8 @@ There are no extenuating financial obligations to other organizations at this po
 
 
 ### Venue / Festival / Expo
-- [ ] Is there an expo?
-- [ ] Is there entertainment
-- [ ] Is there a post-event festival?
-- [ ] Is there a participant meal?
-- [ ] Will alcohol be served?
 
-
-    Provide a narrative of the venue and its components.
+We will provide a basic finish line experience and push the post-event festivities to a local business with the capacity to host us. Ideally Anderson Valley Brewery with their outdoor activities and proximity to town. They may need food to be catered from a third party. A slow-time of year, they might welcome the business. Possibly a local band if ABV has capacity and is turn-key. Post-ride meal will be served at the ABV location. We need to strike a deal with them.
 
 **See [Venue](/venue.md) for more detail.**
 
