@@ -8,9 +8,6 @@ Use these considerations to help complete a budget plan in the [Budget](/budget.
 ---
 ## PARTNERSHIPS
 
-- [ ] What partnerships will be relied on?
-- [ ] What do the partners bring to the table?
-- [ ] Will there be a financial obligation between partners?
 
 ####Existing Partners
 Leverage all existing partnerships for production cash and swag. Bike Monkey events can be tagged on as additional opportunities included in LGF or exclusive opportunities with a cash component. eg. Lagunitas can tag on with beer, or have exclusive rights with cash to keep Anderson Valley out.
@@ -27,13 +24,9 @@ Booneville should be approached for potential partnership.
 **See [Partnerships](/partnerships.md) for more detail.**
 
 ### Charity
-- [ ] What is the charitable component?
-- [ ] Is the chosen charity capable of carrying risk associated with the event (eg. alcohol)
-- [ ] Can the charity provide COIs?
-- [ ] What is expected of the charity?
-- [ ] What does the charity expect?
 
 We don't currently have a charitable component to the event. However we should be prepared to make a donation to the junior high school in exchange for venue.
+
 We will use REMBA to start the process. As we develop the event, if another local charity comes to fruition we can consider working with them for local value and still leverage REMBA for the technical aspects of producing the ride. We should turn to REMBA as their "landlord" in exchange for this kind of technical _fiscal sponsorship_ of all our events so permits and ABC licenses are straightforward. The actualy financially benefitting charity could be different, and REMBA can hang their hat on that along with us.
 
 **See [Charity](/charity.md) for more detail.**
